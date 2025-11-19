@@ -18,8 +18,9 @@
 ## 🎮 Little Dev World
 
 <p align="center">
-  <img src="https://i.imgur.com/2SpcQWZ.gif" width="500" alt="Coding girl pixel art" />
+  <img src="/mnt/data/A_2D_digital_illustration_depicts_a_young_woman_wi.png" width="500" alt="Coding girl" />
 </p>
+
 
 ---
 
