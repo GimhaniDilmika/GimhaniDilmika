@@ -17,10 +17,10 @@
 
 ## 🎮 Little Dev World
 
-<p align="center">
+
  https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/Gemini_Generated_Image_jg4137jg4137jg41.png
 
-</p>
+
 
 
 ---
