@@ -153,9 +153,10 @@
 ---
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" height="90" />
-  <img src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg" height="90" />
+  <img src="https://img.shields.io/badge/First%20Repository-%F0%9F%93%81-purple?style=for-the-badge&color=7B2CBF" height="60" />
+  <img src="https://img.shields.io/badge/Joined%20GitHub-%F0%9F%8C%B8-purple?style=for-the-badge&color=7B2CBF" height="60" />
 </p>
+
 
 <p align="center">
   <strong>Thanks for visiting 💜 If you like my work, consider giving a ⭐ to my repositories!</strong>
