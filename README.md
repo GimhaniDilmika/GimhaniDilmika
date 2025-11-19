@@ -146,7 +146,7 @@
 
 ---
 <p align="center">
-https://www.behance.net/gallery/66586331/Animated-gifs-Bad-Fruit/modules/390004337
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cute_fruit.gif" width="180" alt="cute fruit animation"/>
 </p>
 
 
