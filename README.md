@@ -1,28 +1,85 @@
-# Hi, I'm Gimhani Dilmika 👋  
+<div align="center">
+  
+# 👋 Hi, I'm Gimhani Dilmika  
+### 💻 Aspiring Software Engineer | Computer Engineering Undergraduate  
+### 🚀 Passionate about Java, Web Development & DevOps  
+---
 
-🎓 Computer Engineering Undergraduate  
-💻 Passionate about Java, Web Development, and Full-Stack Projects  
-🌱 Currently learning DevOps (Linux, Git, Docker, Kubernetes, CI/CD)
-🌼 I believe in continuous learning and self-growth
-🤝 Looking to collaborate on software engineering & machine learning projects  
-📫 How to reach me: gimhanidilmika1@gmail.com  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-## 🚀 Skills  
-- **Languages:** Java, JavaScript, HTML, CSS  
-- **Tools & Frameworks:** React, Node.js, Git, GitHub  
-- **Other:** SQL, OOP, Problem Solving  
+</div>
 
-###🔥 Interests  
-- Machine Learning  
-- Cloud Computing  
-- DevOps  
-- Software Architecture  
+---
 
-Thank you for visiting my profile! 😊
+## 🌟 About Me  
+- 🎓 Undergraduate in **Computer Engineering** (University of Jaffna)  
+- 🌱 Currently learning **React, Java, Linux, Git, Docker, CI/CD**  
+- 💡 Passionate about **software engineering, machine learning & cloud technologies**  
+- 🌼 I believe in continuous learning and self-growth  
+- 💬 Ask me about **Java, JavaScript, React, HTML, CSS, Git, Databases**  
+- 📫 Reach me at **gimhanidilmika1@gmail.com**
 
+---
 
+## 🛠️ Tech Stack  
 
-<!---
-GimhaniDilmika/GimhaniDilmika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages**  
+Java • JavaScript • HTML • CSS • SQL  
+
+**Frameworks & Libraries**  
+React.js • Node.js  
+
+**Tools & Platforms**  
+Git • GitHub • VS Code • Linux • Docker (learning) • Figma  
+
+**Other Skills**  
+OOP • Problem Solving • UI Design Basics  
+
+---
+
+## 🚀 Featured Projects  
+Here are some of my favourite works:
+
+- 🔢 **Number Guessing Game (Java)**  
+- 🎓 **Student Grade Calculator**  
+- 🏦 **ATM Interface**  
+- 🏠 **Hostel Management System**  
+- 🎫 **Ticket Booking System (JavaScript/React)**  
+
+👉 *More projects on my GitHub — updated regularly!*
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![Gimhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=GimhaniDilmika&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GimhaniDilmika&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 🌐 Connect With Me  
+<div align="center">
+
+<a href="https://www.linkedin.com/in/your-link-here">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gimhanidilmika1@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *Thank you for visiting my profile!*  
+🌸 *Have a nice day!* 🌸
+
+</div>
