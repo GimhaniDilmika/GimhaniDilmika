@@ -5,6 +5,7 @@
 ### 🚀 Passionate about Java, Web Development & DevOps  
 ---
 
+<!-- Female programmer image -->
 <img src="/mnt/data/A_digital_illustration_depicts_a_female_programmer.png" width="350"/>
 
 </div>
@@ -65,21 +66,4 @@ Here are some of my favourite works:
 ## 🌐 Connect With Me  
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-link-here">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:gimhanidilmika1@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-⭐ *Thank you for visiting my profile!*  
-🌸 *Have a nice day!* 🌸
-
-</div>
+<a href="https://www.linkedin.com/in/y
