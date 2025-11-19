@@ -153,9 +153,13 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/First%20Repository-%F0%9F%93%81-purple?style=for-the-badge&color=7B2CBF" height="60" />
-  <img src="https://img.shields.io/badge/Joined%20GitHub-%F0%9F%8C%B8-purple?style=for-the-badge&color=7B2CBF" height="60" />
+
+  <img src="https://img.shields.io/badge/First%20Repository-%F0%9F%93%81-7B2CBF?style=for-the-badge&labelColor=5A1F8A" height="45"/>
+
+  <img src="https://img.shields.io/badge/Joined%20GitHub-%F0%9F%8C%B8-7B2CBF?style=for-the-badge&labelColor=5A1F8A" height="45"/>
+
 </p>
+
 
 
 <p align="center">
