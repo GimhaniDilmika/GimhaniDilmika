@@ -1,69 +1,96 @@
-<div align="center">
-  
-# 👋 Hi, I'm Gimhani Dilmika  
-### 💻 Aspiring Software Engineer | Computer Engineering Undergraduate  
-### 🚀 Passionate about Java, Web Development & DevOps  
+<!-- TOP ANIMATED TYPING TEXT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F79CF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Hi+%F0%9F%91%8B%2C+I'm+Gimhani+Dilmika;Computer+Engineering+Undergraduate;Aspiring+Software+Engineer;Java+%7C+Web+Development+%7C+DevOps" alt="Typing SVG" />
+</p>
+
 ---
 
-<!-- Female programmer image -->
-<img src="/mnt/data/A_digital_illustration_depicts_a_female_programmer.png" width="350"/>
+<h2 align="center">👋 Hi, I'm Gimhani Dilmika 👩‍💻</h2>
 
-</div>
+<h4 align="center">Aspiring Software Engineer | Computer Engineering Undergraduate | University of Jaffna</h4>
+
+---
+
+<!-- CENTER ANIMATED GIF (FEMALE DEVELOPER) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+</p>
 
 ---
 
 ## 🌟 About Me  
+
 - 🎓 Undergraduate in **Computer Engineering** (University of Jaffna)  
 - 🌱 Currently learning **React, Java, Linux, Git, Docker, CI/CD**  
-- 💡 Passionate about **software engineering, machine learning & cloud technologies**  
-- 🌼 I believe in continuous learning and self-growth  
+- 🤖 Interested in **Machine Learning, Cloud & DevOps**  
+- 💡 I enjoy building practical projects and improving my problem-solving skills  
 - 💬 Ask me about **Java, JavaScript, React, HTML, CSS, Git, Databases**  
-- 📫 Reach me at **gimhanidilmika1@gmail.com**
+- 📫 Reach me at **gimhanidilmika1@gmail.com**  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧰 Tech Stack  
 
-**Languages**  
-Java • JavaScript • HTML • CSS • SQL  
+### 💻 Languages  
+- Java • JavaScript • HTML • CSS • SQL  
 
-**Frameworks & Libraries**  
-React.js • Node.js  
+### 📚 Frameworks & Libraries  
+- React.js • Node.js  
 
-**Tools & Platforms**  
-Git • GitHub • VS Code • Linux • Docker (learning) • Figma  
+### 🛠 Tools & Platforms  
+- Git & GitHub  
+- VS Code  
+- Linux  
+- Docker (learning)  
+- Figma  
 
-**Other Skills**  
-OOP • Problem Solving • UI Design Basics  
+### 💡 Other Skills  
+- Object-Oriented Programming (OOP)  
+- Problem Solving  
+- UI Design Basics  
 
 ---
 
 ## 🚀 Featured Projects  
-Here are some of my favourite works:
 
 - 🔢 **Number Guessing Game (Java)**  
 - 🎓 **Student Grade Calculator**  
-- 🏦 **ATM Interface**  
-- 🏠 **Hostel Management System**  
+- 🏦 **ATM Interface (Java)**  
+- 🏠 **Hostel Management System (PHP/Java)**  
 - 🎫 **Ticket Booking System (JavaScript/React)**  
 
-👉 *More projects on my GitHub — updated regularly!*
+👉 *More projects on my GitHub — I keep updating them as I learn!*  
 
 ---
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GimhaniDilmika&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Gimhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=GimhaniDilmika&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GimhaniDilmika&layout=compact&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GimhaniDilmika&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me  
-<div align="center">
 
-<a href="https://www.linkedin.com/in/y
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link-here">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:gimhanidilmika1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>Thank you for visiting my profile!</i> ⭐  
+  <br/>
+  🌸 <i>Have a nice day!</i> 🌸
+</p>
