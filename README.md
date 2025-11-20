@@ -1,3 +1,6 @@
+Here’s your full updated README with the **Random Dev Quote** section nicely formatted in *italic* and the bottom part cleaned up:
+
+```md
 <!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
@@ -17,14 +20,9 @@
 
 ## 🎮 Little Dev World
 
-
- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/Gemini_Generated_Image_jg4137jg4137jg41.png" width="500" alt="Coding girl" />
 </p>
-
-
-
-
 
 ---
 
@@ -94,7 +92,6 @@
   <em>Continuously learning, building, and contributing to become a better engineer every day 💜</em>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats & Languages
@@ -109,26 +106,14 @@
 </p>
 
 ---
+
 ## ✍️ Random Dev Quote
 
-<div align="center">
-  <div style="
-    background: linear-gradient(135deg, #0b0b20, #140021);
-    padding: 22px 32px;
-    border-radius: 18px;
-    max-width: 800px;
-    font-style: italic;
-    color: #e0fbff;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-  ">
-    <p style="font-size: 18px; line-height: 1.6; margin: 0 0 8px 0;">
-      “Don't worry about anything. Just do what you can and be the best you can be.”
-    </p>
-    <p style="text-align: right; margin: 0; font-size: 16px; color: #ff4fa3;">
-      – Douglas Crockford
-    </p>
-  </div>
-</div>
+<p align="center">
+  <em>“Don't worry about anything. Just do what you can and be the best you can be.”</em><br/>
+  <sub><strong>– Douglas Crockford</strong></sub>
+</p>
+
 ---
 
 ## 📈 Contribution Graph
@@ -175,14 +160,16 @@
 </p>
 
 ---
-<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
+
 <p align="center">
----
-  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cute_fruit.gif" width="180" alt="cute fruit animation"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cute_fruit.gif" width="180" alt="cute fruit animation"/>
+</p>
 
 <p align="center">
   <strong>Thanks for visiting 💜 If you like my work, consider giving a ⭐ to my repositories!</strong>
 </p>
+```
