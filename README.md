@@ -109,6 +109,27 @@
 </p>
 
 ---
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <div style="
+    background: linear-gradient(135deg, #0b0b20, #140021);
+    padding: 22px 32px;
+    border-radius: 18px;
+    max-width: 800px;
+    font-style: italic;
+    color: #e0fbff;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+  ">
+    <p style="font-size: 18px; line-height: 1.6; margin: 0 0 8px 0;">
+      “Don't worry about anything. Just do what you can and be the best you can be.”
+    </p>
+    <p style="text-align: right; margin: 0; font-size: 16px; color: #ff4fa3;">
+      – Douglas Crockford
+    </p>
+  </div>
+</div>
+---
 
 ## 📈 Contribution Graph
 
