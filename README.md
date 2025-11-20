@@ -80,14 +80,20 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Highlights
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=GimhaniDilmika&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" 
-    alt="GitHub Trophies" 
-  />
+  <img src="https://img.shields.io/badge/Commit_Streak-Active-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-9D4EDD?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Learner-Everyday-5A189A?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java_&_Web_Dev-Focus-3C096C?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_&_DevOps-Path-240046?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
+
+<p align="center">
+  <em>Continuously learning, building, and contributing to become a better engineer every day 💜</em>
+</p>
+
 
 ---
 
