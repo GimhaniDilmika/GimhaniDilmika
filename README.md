@@ -17,9 +17,14 @@
 
 ## 🎮 Little Dev World
 
-<p align="center">
+
+ <p align="center">
   <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/Gemini_Generated_Image_jg4137jg4137jg41.png" width="500" alt="Coding girl" />
 </p>
+
+
+
+
 
 ---
 
@@ -75,17 +80,13 @@
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commit%20Streak-Keeping%20it%20Going-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Active%20Learner-9D4EDD?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Web%20Dev-5A189A?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Path-Cloud%20%26%20DevOps-3C096C?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
-<p align="center">
-  <em>Continuously learning, building, and contributing to become a better engineer every day 💜</em>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=GimhaniDilmika&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" 
+    alt="GitHub Trophies" 
+  />
 </p>
 
 ---
@@ -147,14 +148,13 @@
 </p>
 
 ---
-
+<p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<p align="center">
+---
   <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cute_fruit.gif" width="180" alt="cute fruit animation"/>
 </p>
+
+
 
 <p align="center">
   <strong>Thanks for visiting 💜 If you like my work, consider giving a ⭐ to my repositories!</strong>
