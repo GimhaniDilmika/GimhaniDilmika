@@ -1,6 +1,3 @@
-Here’s your full updated README with the **Random Dev Quote** section nicely formatted in *italic* and the bottom part cleaned up:
-
-```md
 <!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
@@ -172,4 +169,3 @@ Here’s your full updated README with the **Random Dev Quote** section nicely f
 <p align="center">
   <strong>Thanks for visiting 💜 If you like my work, consider giving a ⭐ to my repositories!</strong>
 </p>
-```
