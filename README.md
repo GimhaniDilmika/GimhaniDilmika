@@ -86,8 +86,9 @@
 ## 🧭 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GimhaniDilmika&theme=dracula" alt="GitHub Activity Overview" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GimhaniDilmika&theme=tokyonight" alt="GitHub Stats Overview" />
 </p>
+
 
 ---
 
