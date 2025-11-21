@@ -65,33 +65,33 @@
 
 ## 🚀 Featured Projects
 
-- 🔢 **Number Guessing Game (Java)** – Simple console game using loops & conditionals  
-- 🎓 **Student Grade Calculator (Java)** – Calculates grades with basic validation  
-- 🏦 **ATM Interface (Java)** – Simulated ATM operations with OOP concepts  
-- 🏠 **Hostel Management System (PHP/Java)** – Basic system for managing hostel data  
-- 🎫 **Ticket Booking System (JavaScript/React)** – Frontend booking UI with state management  
+- 🔢 **Number Guessing Game (Java)** – Simple console game  
+- 🎓 **Student Grade Calculator (Java)** – Grade calculation program  
+- 🏦 **ATM Interface (Java)** – OOP-based ATM simulation  
+- 🏠 **Hostel Management System** – Manage hostel data  
+- 🎫 **Ticket Booking System (React/JS)** – UI for ticket booking  
 
-> 👉 Check my repositories section for more projects!
+> 👉 Check my repositories for more!
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Commit_Streak-Active-7B2CBF?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-9D4EDD?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Learner-Everyday-5A189A?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java_&_Web_Dev-Focus-3C096C?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_&_DevOps-Path-240046?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
-<p align="center">
-  <em>Continuously learning, building, and contributing to become a better engineer every day 💜</em>
+  <img src="https://github-profile-trophy.vercel.app/?username=GimhaniDilmika&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Languages
+## 📈 Contribution Graph & GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GimhaniDilmika&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GimhaniDilmika&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
@@ -99,7 +99,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GimhaniDilmika&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GimhaniDilmika&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -109,33 +109,6 @@
 <p align="center">
   <em>“Don't worry about anything. Just do what you can and be the best you can be.”</em><br/>
   <sub><strong>– Douglas Crockford</strong></sub>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GimhaniDilmika&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gimhanidilmika1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/your-link-here" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/your-link-here" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
