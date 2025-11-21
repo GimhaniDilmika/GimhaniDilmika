@@ -18,7 +18,7 @@
 ## 🎮 Little Dev World
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/Gemini_Generated_Image_jg4137jg4137jg41.png" width="500" alt="Coding girl" />
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/Gemini_Generated_Image_jg4137jg4137jg41.png" width="400" alt="Coding girl" />
 </p>
 
 ---
@@ -81,13 +81,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=GimhaniDilmika&theme=dracula&no-frame=true&margin-w=10" />
 </p>
 
----
 
-## 🧭 GitHub Activity Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GimhaniDilmika&show_icons=true&theme=chartreuse-dark" />
-</p>
+
 
 
 
