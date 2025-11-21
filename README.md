@@ -83,10 +83,18 @@
 
 ---
 
-## 📈 Contribution Graph & GitHub Activity
+## 🧭 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GimhaniDilmika&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GimhaniDilmika&theme=dracula" alt="GitHub Activity Overview" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GimhaniDilmika&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -99,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GimhaniDilmika&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=GimhaniDilmika&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 ---
@@ -109,6 +117,25 @@
 <p align="center">
   <em>“Don't worry about anything. Just do what you can and be the best you can be.”</em><br/>
   <sub><strong>– Douglas Crockford</strong></sub>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gimhanidilmika1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
