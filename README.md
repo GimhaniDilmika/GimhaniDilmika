@@ -65,13 +65,18 @@
 
 ## 🚀 Featured Projects
 
+### 🚀 Projects
+
 - 🔢 **Number Guessing Game (Java)** – Simple console game  
 - 🎓 **Student Grade Calculator (Java)** – Grade calculation program  
 - 🏦 **ATM Interface (Java)** – OOP-based ATM simulation  
 - 🏠 **Hostel Management System** – Manage hostel data  
 - 🎫 **Ticket Booking System (React/JS)** – UI for ticket booking  
-- 🧑‍🏫 WebApp – Classroom Management System 
+- 🧑‍🏫 **Classroom Management WebApp** – Academic management system  
+- 🛒 **BlyzeHub-Store** – Full-stack e-commerce web application  
+
 > 👉 Check my repositories for more!
+
 
 ---
 
