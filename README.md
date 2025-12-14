@@ -105,6 +105,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cute_fruit.gif" width="180" />
+</p>
 
 <p align="center">
   <strong>Thanks for visiting 💜 Give a ⭐ if you like my work!</strong>
