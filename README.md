@@ -73,7 +73,7 @@ can we add profile views
 
 ### 🚀 Projects
 
-## 🚀 Other Projects
+
 
 Here are some of my additional projects:
 
