@@ -73,15 +73,20 @@ can we add profile views
 
 ### 🚀 Projects
 
-- 🔢 **Number Guessing Game (Java)** – Simple console game  
-- 🎓 **Student Grade Calculator (Java)** – Grade calculation program  
+## 🚀 Other Projects
+
+Here are some of my additional projects:
+
+- 🎥 **PeerMeet-WebRTC** – Real-time video meeting platform using WebRTC & Socket.io  
+- 🔢 **Number Guessing Game (Java)** – Simple console-based guessing game  
+- 🎓 **Student Grade Calculator (Java)** – Program to calculate student grades  
 - 🏦 **ATM Interface (Java)** – OOP-based ATM simulation  
 - 🏠 **Hostel Management System** – Manage hostel data  
-- 🎫 **Ticket Booking System (React/JS)** – UI for ticket booking  
+- 🎫 **Ticket Booking System (React/JavaScript)** – Interactive ticket booking UI  
 - 🧑‍🏫 **Classroom Management WebApp** – Academic management system  
 - 🛒 **BlyzeHub-Store** – Full-stack e-commerce web application  
 
-> 👉 Check my repositories for more!
+> 👉 Check my GitHub repositories for more!
 
 
 ---
