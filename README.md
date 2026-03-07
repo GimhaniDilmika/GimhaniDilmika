@@ -75,7 +75,7 @@
 ## 🌟 Skill Progress
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/skill_progress.gif" width="580" alt="Skill Progress" />
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/skill_progress_clean.gif" width="580" alt="Skill Progress" />
 </p>
 
 ---
