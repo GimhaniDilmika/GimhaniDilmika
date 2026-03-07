@@ -206,9 +206,6 @@ Git & GitHub   ████████████████░░░░  80%
   <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cute_fruit.gif" width="180" alt="cute fruit animation"/>
 </p>
 
-<p align="center">
-  <strong>Thanks for visiting 💜 If you like my work, consider giving a ⭐ to my repositories!</strong>
-</p>
 
 <!-- BOTTOM BANNER -->
 <p align="center">
