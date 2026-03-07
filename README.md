@@ -141,11 +141,11 @@ Git & GitHub   ████████████████░░░░  80%
 
 ## 🎵 Vibing to
 
+
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=7B2CBF" alt="Spotify Now Playing" width="350" />
-  </a>
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=7B2CBF" />
 </p>
+
 
 > 💡 Replace `YOUR_SPOTIFY_ID` with your actual Spotify username to show what you're listening to live!
 
