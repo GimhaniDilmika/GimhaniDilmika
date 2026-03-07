@@ -139,16 +139,14 @@ Git & GitHub   ████████████████░░░░  80%
 
 ---
 
-## 🎵 Vibing to
-
+## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false&bar_color=7B2CBF" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-
-
-> 💡 Replace `YOUR_SPOTIFY_ID` with your actual Spotify username to show what you're listening to live!
-
 ---
 
 ## ✍️ Random Dev Quote
