@@ -70,18 +70,13 @@
 
 ---
 
+
+
 ## 🌟 Skill Progress
 
-```text
-Java           ████████████████░░░░  80%
-JavaScript     ███████████████░░░░░  75%
-HTML & CSS     █████████████████░░░  85%
-React          ████████████░░░░░░░░  60%
-Node.js        ███████████░░░░░░░░░  55%
-MySQL          ████████████░░░░░░░░  60%
-Docker         ███████░░░░░░░░░░░░░  35%
-Git & GitHub   ████████████████░░░░  80%
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/skill_progress.gif" width="580" alt="Skill Progress" />
+</p>
 
 ---
 
