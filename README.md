@@ -1,6 +1,4 @@
-
-can we add profile views 
-<!-- TOP BANNER -->
+# <!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -9,9 +7,12 @@ can we add profile views
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=F4B4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Gimhani+Dilmika;Computer+Engineering+Undergraduate;Aspiring+Software+Engineer;Java+%7C+Web+Development+%7C+DevOps+Learner" alt="Typing SVG" />
 </p>
-<!-- PROFILE VIEWS -->
+
+<!-- PROFILE VIEWS + FOLLOWERS + STARS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GimhaniDilmika&label=Profile%20Views&color=7B2CBF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/GimhaniDilmika?label=Followers&style=for-the-badge&color=7B2CBF&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/github/stars/GimhaniDilmika?label=Total%20Stars&style=for-the-badge&color=F4B4FF&labelColor=1a1a2e" />
 </p>
 
 <p align="center">
@@ -31,7 +32,7 @@ can we add profile views
 
 ## 👩‍💻 About Me
 
-- 🎓 I’m an **undergraduate in Computer Engineering** at the **University of Jaffna**
+- 🎓 I'm an **undergraduate in Computer Engineering** at the **University of Jaffna**
 - 🌱 Currently learning **React, Java, Linux, Git, Docker, CI/CD**
 - 🤖 Interested in **Machine Learning, Cloud Computing & DevOps**
 - 💻 I love building **practical projects** and improving my **problem-solving skills**
@@ -44,50 +45,60 @@ can we add profile views
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
 </p>
 
 ### 📚 Frameworks & Libraries  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
 </p>
 
 ### 🔧 Tools & Platforms  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" title="Figma"/>
 </p>
+
+---
+
+## 🌟 Skill Progress
+
+```text
+Java           ████████████████░░░░  80%
+JavaScript     ███████████████░░░░░  75%
+HTML & CSS     █████████████████░░░  85%
+React          ████████████░░░░░░░░  60%
+Node.js        ███████████░░░░░░░░░  55%
+MySQL          ████████████░░░░░░░░  60%
+Docker         ███████░░░░░░░░░░░░░  35%
+Git & GitHub   ████████████████░░░░  80%
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚀 Projects
-
-
-
-Here are some of my additional projects:
-
-- 🎥 **PeerMeet-WebRTC** – Real-time video meeting platform using WebRTC & Socket.io  
-- 🔢 **Number Guessing Game (Java)** – Simple console-based guessing game  
-- 🎓 **Student Grade Calculator (Java)** – Program to calculate student grades  
-- 🏦 **ATM Interface (Java)** – OOP-based ATM simulation  
-- 🏠 **Hostel Management System** – Manage hostel data  
-- 🎫 **Ticket Booking System (React/JavaScript)** – Interactive ticket booking UI  
-- 🧑‍🏫 **Classroom Management WebApp** – Academic management system  
-- 🛒 **BlyzeHub-Store** – Full-stack e-commerce web application  
+| 🗂️ Project | 📝 Description | 🛠️ Tech |
+|---|---|---|
+| 🎥 **PeerMeet-WebRTC** | Real-time video meeting platform | WebRTC, Socket.io, Node.js |
+| 🛒 **BlyzeHub-Store** | Full-stack e-commerce web app | React, Node.js, MySQL |
+| 🎫 **Ticket Booking System** | Interactive ticket booking UI | React, JavaScript |
+| 🧑‍🏫 **Classroom Management WebApp** | Academic management system | HTML, CSS, JS |
+| 🏠 **Hostel Management System** | Manage hostel data | Java, MySQL |
+| 🏦 **ATM Interface** | OOP-based ATM simulation | Java |
+| 🎓 **Student Grade Calculator** | Calculate student grades | Java |
+| 🔢 **Number Guessing Game** | Console-based guessing game | Java |
 
 > 👉 Check my GitHub repositories for more!
-
 
 ---
 
@@ -96,12 +107,6 @@ Here are some of my additional projects:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GimhaniDilmika&theme=dracula&no-frame=true&margin-w=10" />
 </p>
-
-
-
-
-
-
 
 ---
 
@@ -126,11 +131,38 @@ Here are some of my additional projects:
 
 ---
 
+## ⏱️ Weekly Coding Breakdown
+
+<!--START_SECTION:waka-->
+> 🔒 Set up [WakaTime](https://wakatime.com) to show your real weekly coding stats here!
+<!--END_SECTION:waka-->
+
+---
+
+## 🎵 Vibing to
+
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=7B2CBF" alt="Spotify Now Playing" width="350" />
+  </a>
+</p>
+
+> 💡 Replace `YOUR_SPOTIFY_ID` with your actual Spotify username to show what you're listening to live!
+
+---
+
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <em>“Don't worry about anything. Just do what you can and be the best you can be.”</em><br/>
-  <sub><strong>– Douglas Crockford</strong></sub>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -173,13 +205,14 @@ Here are some of my additional projects:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cute_fruit.gif" width="180" alt="cute fruit animation"/>
 </p>
 
 <p align="center">
   <strong>Thanks for visiting 💜 If you like my work, consider giving a ⭐ to my repositories!</strong>
+</p>
+
+<!-- BOTTOM BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer" />
 </p>
