@@ -97,10 +97,10 @@
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GimhaniDilmika&theme=dracula&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GimhaniDilmika&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
