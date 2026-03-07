@@ -203,7 +203,7 @@ Git & GitHub   ████████████████░░░░  80%
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cute_fruit.gif" width="180" alt="cute fruit animation"/>
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cartoon_girl_v2.gif" width="300" alt="cartoon coder"/>
 </p>
 
 
