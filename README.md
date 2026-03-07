@@ -212,5 +212,5 @@ Git & GitHub   ████████████████░░░░  80%
 
 <!-- BOTTOM BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer" />
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/footer_banner.gif" width="600" alt="Thanks for visiting" />
 </p>
