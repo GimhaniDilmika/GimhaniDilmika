@@ -25,7 +25,7 @@
 ## 🎮 Little Dev World
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/Gemini_Generated_Image_jg4137jg4137jg41.png" width="400" alt="Coding girl" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
 </p>
 
 ---
