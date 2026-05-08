@@ -32,11 +32,13 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 I'm an **undergraduate in Computer Engineering** at the **University of Jaffna**
-- 🌱 Currently learning **React, Java, Linux, Git, Docker, CI/CD**
-- 🤖 Interested in **Machine Learning, Cloud Computing & DevOps**
-- 💻 I love building **practical projects** and improving my **problem-solving skills**
-- 💬 Ask me about **Java, JavaScript, React, HTML, CSS, Git, Databases**
+- 🎓 Undergraduate in **Computer Engineering** at the **University of Jaffna** 
+- 🌱 Currently learning **Next.js, React Native, Expo, Docker, CI/CD, Cloud Computing** 
+- 📱 Interested in **Mobile App Development & Full-Stack Web Development**
+- 💻 Love building practical projects and learning modern technologies
+- 🚀 Exploring **DevOps, Cloud, AI & Software Architecture**
+- 🔥 Working on real-world projects to improve development skills
+- 💬 Ask me about **Java, JavaScript, React, Next.js, Node.js, Mobile Apps**
 - 📧 Reach me at: **gimhanidilmika1@gmail.com**
 
 ---
@@ -56,16 +58,19 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </p>
 
 ### 🔧 Tools & Platforms  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" title="Figma"/> 
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
 </p>
 
 ---
