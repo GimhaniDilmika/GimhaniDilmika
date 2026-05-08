@@ -122,7 +122,6 @@
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech |
 |---|---|---|
-| 🌾 Farmer Marketplace App | Connect farmers directly with buyers | React Native, Expo, Node.js |
 | 🎥 PeerMeet-WebRTC | Real-time video meeting platform | WebRTC, Socket.io, Node.js |
 | 🛒 BlyzeHub-Store | Full-stack e-commerce platform | React, Node.js, MySQL |
 | 🎫 Ticket Booking System | Interactive booking UI | React, JavaScript |
