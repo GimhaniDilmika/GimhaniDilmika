@@ -1,4 +1,4 @@
-```md
+
 <!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
@@ -261,4 +261,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/footer_banner.gif" width="600" alt="Thanks for visiting" />
 </p>
-```
+
