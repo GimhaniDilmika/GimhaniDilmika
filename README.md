@@ -89,6 +89,8 @@
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech |
 |---|---|---|
+| 🧠 **Designing-an-Intelligent-Timetabling-System** | Intelligent timetable scheduling system | Java / Web Technologies |
+| ⚙️ **CPU-Scheduling-Simulator** | Simulates CPU scheduling algorithms and process execution | Java |
 | 🎥 **PeerMeet-WebRTC** | Real-time video meeting platform | WebRTC, Socket.io, Node.js |
 | 🛒 **BlyzeHub-Store** | Full-stack e-commerce web app | React, Node.js, MySQL |
 | 🎫 **Ticket Booking System** | Interactive ticket booking UI | React, JavaScript |
