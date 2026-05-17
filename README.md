@@ -1,11 +1,11 @@
-# <!-- TOP BANNER -->
+<!-- TOP BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=F4B4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Gimhani+Dilmika;Computer+Engineering+Undergraduate;Aspiring+Software+Engineer;Java+%7C+Web+Development+%7C+DevOps+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2500&pause=800&color=F4B4FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Gimhani+Dilmika;Computer+Engineering+Undergraduate;AI+Chatbot+Developer+%F0%9F%A4%96;Aspiring+Software+Engineer;Python+%7C+Flask+%7C+Claude+AI+%7C+Java+%7C+React" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE VIEWS + FOLLOWERS + STARS -->
@@ -17,7 +17,7 @@
 
 <p align="center">
   <strong>Undergraduate Computer Engineering Student at University of Jaffna</strong><br/>
-  Passionate about Java, Web Development, Cloud & DevOps
+  Passionate about AI Development, Java, Web Development, Cloud & DevOps
 </p>
 
 ---
@@ -32,21 +32,43 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Undergraduate in **Computer Engineering** at the **University of Jaffna** 
-- 🌱 Currently learning **Next.js, React Native, Expo, Docker, CI/CD, Cloud Computing** 
+- 🎓 Undergraduate in **Computer Engineering** at the **University of Jaffna**
+- 🤖 Building **AI-powered applications** using **Claude API & Python**
+- 🌱 Currently learning **Next.js, React Native, Expo, Docker, CI/CD, Cloud Computing**
 - 📱 Interested in **Mobile App Development & Full-Stack Web Development**
 - 💻 Love building practical projects and learning modern technologies
 - 🚀 Exploring **DevOps, Cloud, AI & Software Architecture**
-- 🔥 Working on real-world projects to improve development skills
-- 💬 Ask me about **Java, JavaScript, React, Next.js, Node.js, Mobile Apps**
+- 🔥 Interning at **Decodelabs** — building real-world AI projects
+- 💬 Ask me about **Java, JavaScript, Python, Flask, React, AI Chatbots**
 - 📧 Reach me at: **gimhanidilmika1@gmail.com**
+
+---
+
+## 🤖 AI Projects — Decodelabs Internship
+
+<p align="center">
+
+| # | 🗂️ Project | 📝 Description | 🛠️ Tech |
+|---|------------|----------------|---------|
+| 1 | 🧠 **Rule-Based AI Chatbot** | Deterministic chatbot with 35+ intents, hash map O(1) routing, 0% hallucination risk | Python, Flask, JS |
+| 2 | 💬 **General AI Chatbot** | Conversational AI assistant powered by Claude API with multi-turn session memory | Python, Flask, Claude API |
+| 3 | ⚡ **Code Assistant Bot** | 6-mode AI coding tool — Generate, Fix, Explain, Refactor, Convert, Write Tests | Python, Flask, Claude API, SQLite |
+
+</p>
+
+```
+Project 1 → Deterministic Logic    (Rule engine, O(1) hash maps, 0% hallucination)
+Project 2 → Conversational AI      (LLMs, session memory, prompt engineering)
+Project 3 → Specialized AI Tools   (Multi-mode AI, syntax highlighting, history DB)
+```
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages  
+### 💻 Languages
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
@@ -54,28 +76,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
 </p>
 
-### 📚 Frameworks & Libraries  
+### 📚 Frameworks & Libraries
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Claude%20AI-7B2CBF?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </p>
 
-### 🔧 Tools & Platforms  
+### 🔧 Tools & Platforms
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" title="Figma"/> 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50" title="Figma"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
-
-
 
 ## 🌟 Skill Progress
 
@@ -89,6 +111,8 @@
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech |
 |---|---|---|
+| ⚡ **Code Assistant Bot** | 6-mode AI coding assistant — generate, fix, explain, refactor, convert, test | Python, Flask, Claude AI, SQLite |
+| 🧠 **Rule-Based AI Chatbot** | Deterministic chatbot with 35+ intents and 3-tier matching system | Python, Flask, JavaScript |
 | 🧠 **Designing-an-Intelligent-Timetabling-System** | Intelligent timetable scheduling and classroom allocation system | Python |
 | ⚙️ **CPU-Scheduling-Simulator** | Visual simulator for CPU scheduling algorithms and process management | HTML, CSS, JavaScript |
 | 🎥 **PeerMeet-WebRTC** | Real-time video meeting platform | WebRTC, Socket.io, Node.js |
@@ -144,12 +168,14 @@
 ## 🌱 Currently Learning
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Claude%20AI-7B2CBF?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+---
 
 ## ✍️ Random Dev Quote
 
@@ -189,6 +215,10 @@
 ## 🧪 Technologies & Environments
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20AI-7B2CBF?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -207,7 +237,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cartoon_girl_v2.gif" width="300" alt="cartoon coder"/>
 </p>
-
 
 <!-- BOTTOM BANNER -->
 <p align="center">
