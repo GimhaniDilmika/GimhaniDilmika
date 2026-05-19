@@ -44,7 +44,11 @@
 | 3 | **Code Assistant Bot** | 6-mode AI coding tool for generate, fix, explain, refactor, convert, and test features | Python, Flask, SQLite, AI API |
 | 4 | **StudyFlow AI — AI Study Assistant** | Full-stack AI study assistant chatbot with Groq API, clean UI, chat sessions, theme toggle, and downloadable chat history | Python, Flask, Groq API, HTML, CSS, JavaScript |
 
----
+
+Project 1 → Deterministic Logic     | Rule engine, O(1) hash maps, 0% hallucination
+Project 2 → Conversational AI       | LLMs, session memory, prompt engineering
+Project 3 → Specialized AI Tools    | Multi-mode AI, syntax highlighting, history DB
+Project 4 → AI Study Assistant      | Groq API, Flask backend, clean chatbot UI
 
 ## 🛠 Tech Stack
 
