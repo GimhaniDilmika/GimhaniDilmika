@@ -57,8 +57,75 @@
 
 </p>
 
-```text
+
 Project 1 → Deterministic Logic     (Rule engine, O(1) hash maps, 0% hallucination)
 Project 2 → Conversational AI       (LLMs, session memory, prompt engineering)
 Project 3 → Specialized AI Tools    (Multi-mode AI, syntax highlighting, history DB)
 Project 4 → AI Study Assistant      (Groq API, Flask backend, clean chatbot UI)
+
+
+---
+
+## 4. Replace the Frameworks & Libraries badges
+
+Change the Claude badge to Groq:
+
+markdown
+### 📚 Frameworks & Libraries
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" title="Node.js"/>
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+</p>
+
+## 🚀 Featured Projects
+
+| 🗂️ Project | 📝 Description | 🛠️ Tech |
+|---|---|---|
+| 📚 **StudyFlow AI — AI Study Assistant** | Full-stack AI study assistant chatbot with Groq API, clean UI, chat history, theme toggle, and downloadable conversations | Python, Flask, Groq API, HTML, CSS, JavaScript |
+| ⚡ **Code Assistant Bot** | 6-mode AI coding assistant — generate, fix, explain, refactor, convert, and test | Python, Flask, AI API, SQLite |
+| 🧠 **Rule-Based AI Chatbot** | Deterministic chatbot with 35+ intents and 3-tier matching system | Python, Flask, JavaScript |
+| 🧠 **Designing-an-Intelligent-Timetabling-System** | Intelligent timetable scheduling and classroom allocation system | Python |
+| ⚙️ **CPU-Scheduling-Simulator** | Visual simulator for CPU scheduling algorithms and process management | HTML, CSS, JavaScript |
+| 🎥 **PeerMeet-WebRTC** | Real-time video meeting platform | WebRTC, Socket.io, Node.js |
+| 🛒 **BlyzeHub-Store** | Full-stack e-commerce web app | React, Node.js, MySQL |
+| 🎫 **Ticket Booking System** | Interactive ticket booking UI | React, JavaScript |
+| 🧑‍🏫 **Classroom Management WebApp** | Academic management system | HTML, CSS, JS |
+| 🏠 **Hostel Management System** | Manage hostel data | Java, MySQL |
+| 🏦 **ATM Interface** | OOP-based ATM simulation | Java |
+| 🎓 **Student Grade Calculator** | Calculate student grades | Java |
+| 🔢 **Number Guessing Game** | Console-based guessing game | Java |
+
+> 👉 Check my GitHub repositories for more!
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+## 🧪 Technologies & Environments
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
