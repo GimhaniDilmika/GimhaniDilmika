@@ -217,10 +217,7 @@ Project 4 → AI Study Assistant      (Groq API, Flask backend, clean chatbot UI
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <strong>Thanks for visiting my profile!</strong>
-</p>
----
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cartoon_girl_v2.gif" width="300" alt="cartoon coder"/>
