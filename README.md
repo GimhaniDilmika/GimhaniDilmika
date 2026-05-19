@@ -220,6 +220,12 @@ Project 4 → AI Study Assistant      (Groq API, Flask backend, clean chatbot UI
 <p align="center">
   <strong>Thanks for visiting my profile!</strong>
 </p>
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/cartoon_girl_v2.gif" width="300" alt="cartoon coder"/>
+</p>
+
 <!-- BOTTOM BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/footer_banner.gif" width="600" alt="Thanks for visiting" />
