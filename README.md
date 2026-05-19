@@ -58,13 +58,7 @@
 </p>
 
 
-Project 1 → Deterministic Logic     (Rule engine, O(1) hash maps, 0% hallucination)
 
-Project 2 → Conversational AI       (LLMs, session memory, prompt engineering)
-
-Project 3 → Specialized AI Tools    (Multi-mode AI, syntax highlighting, history DB)
-
-Project 4 → AI Study Assistant      (Groq API, Flask backend, clean chatbot UI)
 
 
 
