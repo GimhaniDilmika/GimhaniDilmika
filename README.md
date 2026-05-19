@@ -66,12 +66,21 @@ Project 4 → AI Study Assistant      (Groq API, Flask backend, clean chatbot UI
 
 ---
 
-## 4. Replace the Frameworks & Libraries badges
+## 🛠 Tech Stack
 
-Change the Claude badge to Groq:
+### Languages
 
-markdown
-### 📚 Frameworks & Libraries
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
+</p>
+
+### Frameworks and Libraries
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
@@ -80,6 +89,20 @@ markdown
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </p>
+
+### Tools and Platforms
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" title="Figma"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -100,6 +123,38 @@ markdown
 | 🔢 **Number Guessing Game** | Console-based guessing game | Java |
 
 > 👉 Check my GitHub repositories for more!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GimhaniDilmika&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GimhaniDilmika&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GimhaniDilmika&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GimhaniDilmika&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GimhaniDilmika&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 <p align="center">
@@ -111,7 +166,30 @@ markdown
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
-## 🧪 Technologies & Environments
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gimhanidilmika1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧪 Technologies and Environments
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -128,4 +206,21 @@ markdown
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+</p>
+<!-- BOTTOM BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GimhaniDilmika/GimhaniDilmika/main/footer_banner.gif" width="600" alt="Thanks for visiting" />
 </p>
