@@ -177,7 +177,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link-here" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gimhani-dilmika-928880310/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gimhanidilmika1@gmail.com" target="_blank">
