@@ -17,7 +17,7 @@
 
 <p align="center">
   <strong>Undergraduate Computer Engineering Student at University of Jaffna</strong><br/>
-  Passionate about AI Development, Java, Web Development, Cloud & DevOps
+  Full Stack Software Engineer passionate about AI Development, Java, Web, Cloud & DevOps
 </p>
 
 ---
