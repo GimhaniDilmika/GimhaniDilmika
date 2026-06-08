@@ -106,9 +106,9 @@
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech |
 |---|---|---|
-| 🌿 **PlantCare — React Native + Expo App** | Mobile plant care reminder app for managing indoor plants, hydration levels, daily care tasks, reminders, plant details, and simple plant care notes with a modern green UI | React Native, Expo, JavaScript |
+| 🌿 **PlantCare  React Native + Expo App** | Mobile plant care reminder app for managing indoor plants, hydration levels, daily care tasks, reminders, plant details, and simple plant care notes with a modern green UI | React Native, Expo, JavaScript |
 | 🎓 **GPA Calculator** | Web app to calculate semester GPA and overall GPA with localStorage data saving, grading scale reference, and customizable university grade logic | Next.js 14, React, JavaScript, localStorage |
-| 📚 **StudyFlow AI — AI Study Assistant** | Full-stack AI study assistant chatbot with Groq API, clean UI, chat history, theme toggle, and downloadable conversations | Python, Flask, Groq API, HTML, CSS, JavaScript |
+| 📚 **StudyFlow  AI Study Assistant** | Full-stack AI study assistant chatbot with Groq API, clean UI, chat history, theme toggle, and downloadable conversations | Python, Flask, Groq API, HTML, CSS, JavaScript |
 | ⚡ **Code Assistant Bot** | 6-mode AI coding assistant — generate, fix, explain, refactor, convert, and test | Python, Flask, AI API, SQLite |
 | 🧠 **Rule-Based AI Chatbot** | Deterministic chatbot with 35+ intents and 3-tier matching system | Python, Flask, JavaScript |
 | 🧠 **Designing-an-Intelligent-Timetabling-System** | Intelligent timetable scheduling and classroom allocation system | Python |
