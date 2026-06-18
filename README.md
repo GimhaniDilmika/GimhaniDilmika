@@ -106,6 +106,7 @@
 
 | 🗂️ Project | 📝 Description | 🛠️ Tech |
 |---|---|---|
+| 🍽️ **Aurora Bites Pro — Smart Restaurant Website & Manager Dashboard** | Premium restaurant web app with 50+ food items, smart cart, demo online payment, coupons, order tracking, table reservations, Firebase Firestore integration, real-time manager dashboard, analytics, menu management, and mobile responsive UI | React, Vite, Firebase, Firestore, JavaScript, Recharts, Motion |
 | 🌿 **PlantCare  React Native + Expo App** | Mobile plant care reminder app for managing indoor plants, hydration levels, daily care tasks, reminders, plant details, and simple plant care notes with a modern green UI | React Native, Expo, JavaScript |
 | 🎓 **GPA Calculator** | Web app to calculate semester GPA and overall GPA with localStorage data saving, grading scale reference, and customizable university grade logic | Next.js 14, React, JavaScript, localStorage |
 | 📚 **StudyFlow  AI Study Assistant** | Full-stack AI study assistant chatbot with Groq API, clean UI, chat history, theme toggle, and downloadable conversations | Python, Flask, Groq API, HTML, CSS, JavaScript |
