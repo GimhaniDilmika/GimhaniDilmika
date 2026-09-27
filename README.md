@@ -117,7 +117,7 @@
 | 🎥 **PeerMeet-WebRTC** | Real-time video meeting platform | WebRTC, Socket.io, Node.js |
 | 🛒 **BlyzeHub-Store** | Full-stack e-commerce web app | React, Node.js, MySQL |
 | 🎫 **Ticket Booking System** | Interactive ticket booking UI | React, JavaScript |
-| 🧑‍🏫 **ClassEase — Smart Classroom Intelligence System** | Role-based classroom management platform with admin, teacher, and student portals, attendance, assignments, marks, timetable, live sessions, finance records, and smart classroom insights | React, Vite, Firebase, Firestore |
+| 🧑‍🏫 **ClassEase-SmartClassroom**|Intelligence System | Role-based classroom management platform with admin, teacher, and student portals, attendance, assignments, marks, timetable, live sessions, finance records, and smart classroom insights | React, Vite, Node.js, Express.js, MongoDB |
 | 🏠 **Hostel Management System** | Manage hostel data | Java, MySQL |
 | 🏦 **ATM Interface** | OOP-based ATM simulation | Java |
 | 🎓 **Student Grade Calculator** | Calculate student grades | Java |
